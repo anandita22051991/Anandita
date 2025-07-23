@@ -16,6 +16,5 @@ Python 🐍 | R 📊 | SQL 💾 | Tableau 📈 | Jupyter 📓 | Git & GitHub �
 [LinkedIn](https://www.linkedin.com/in/ananditaayurochani/)  
 [Tableau Public](https://public.tableau.com/profile/ananditaayurochani)  
 [GitHub](https://github.com/anandita22051991) 
-Gmail ✉️: (https://mail.google.com/ananditaayur1210@gmail.com) 
-_"Ilmu tanpa amal adalah omong kosong, dan amal tanpa ilmu adalah kesesatan."_  
+
 
