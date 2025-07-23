@@ -3,14 +3,12 @@ I am a Data Science undergraduate passionate about turning raw data into actiona
 
 🌱 Currently Learning  
 - Machine Learning  
-- Data Mining  
 - Time Series Analysis  
 - Data Visualization  
-- Big Data Analytics (Hadoop)  
 - Statistical Inference  
 
 🔧 Technologies & Tools  
-Python 🐍 | R 📊 | SQL 💾 | Tableau 📈 | Jupyter 📓 | Git & GitHub 🔧 | Hadoop 🗃 | VSCode 🖥  
+Python 🐍 | R 📊 | SQL 💾 | Tableau 📈 | Jupyter 📓 | Git & GitHub 🔧 | VSCode 🖥  
 
 📫 Get in Touch  
 [LinkedIn](https://www.linkedin.com/in/ananditaayurochani/)  
